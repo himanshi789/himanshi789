@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshi789&show_icons=true&locale=en" alt="himanshi789" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi789&" alt="himanshi789" /></p>
+
 
 
 
