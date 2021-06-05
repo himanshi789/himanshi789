@@ -15,11 +15,11 @@ I like experimenting with new technologies, building small projects, and occassi
 <br>
 Here's a list of things I currently keep myself busy with:
 
-- 🔭 I’m currently working on [Certificate Verification using Blockchain](https://github.com/blockchain-cert-verification/cert-verify)
+- 🔭 &nbsp; I’m currently working on [Certificate Verification using Blockchain](https://github.com/blockchain-cert-verification/cert-verify)
 
-- 🌱 I’m currently learning **Blockchain and Smart Contracts**
+- 🌱 &nbsp; I’m currently learning **Blockchain and Smart Contracts**
 
-- 💬 Ask me about **DSA,ML and Blockchain**
+- 💬 &nbsp; Ask me about **DSA,ML and Blockchain**
 
 <!-- - 📫 How to reach me **himanshi.july@gmail.com** -->
 
@@ -28,9 +28,9 @@ Here's a list of things I currently keep myself busy with:
   <br>
   <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
 
-  - **I ❤ K-DRAMAS**
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
+  - &nbsp; **I ❤ K-DRAMAS**
+  - &nbsp; My go to jam when coding: musicals. Non-stop. ⭐️
+  - &nbsp; I absolutely adore Eevee, the best Pokemon.
 </details>
 
 
@@ -52,9 +52,11 @@ Here's a list of things I currently keep myself busy with:
 
 <br>
 
+
+### 📊 Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshi789&show_icons=true&locale=en&layout=compact" alt="himanshi789" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshi789&show_icons=true&locale=en" alt="himanshi789" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshi789&show_icons=true&locale=en" alt="himanshi789" /></p>
 
 
 
