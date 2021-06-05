@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **DSA,ML and Blockchain**
 
-- 📫 How to reach me **himanshi.july@gmail.com**
+<!-- - 📫 How to reach me **himanshi.july@gmail.com** -->
 
 - ⚡ Fun fact **I ❤ K-DRAMAS**
 
