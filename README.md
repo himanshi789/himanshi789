@@ -15,10 +15,10 @@ I like experimenting with new technologies, building small projects, and occassi
 <br>
 Here's a list of things I currently keep myself busy with:
 
-- 🔭 &nbsp; I’m currently working on [Certificate Verification using Blockchain](https://github.com/blockchain-cert-verification/cert-verify)
+- 🔭 &nbsp; I’m currently working on [Certificate Verification using MongoDB](https://github.com/blockchain-cert-verification/cert-verify-mongoDB)
 
-- 🌱 &nbsp; I’m currently learning **Blockchain and Smart Contracts**
-
+- 🌱 &nbsp; I’m currently learning **MongoDB**
+ 
 - 💬 &nbsp; Ask me about **DSA,ML and Blockchain**
 
 <!-- - 📫 How to reach me **himanshi.july@gmail.com** -->
