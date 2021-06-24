@@ -39,7 +39,7 @@ Here's a list of things I currently keep myself busy with:
 <i align="left">Let's connect and chat! Open to anything under the sun.</i>
   <p align="left">
     <a href="https://twitter.com/himanshigupta0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"              alt="himanshigupta0" height="30" width="40" /></a>
-    <a href="www.linkedin.com/in/Gupta-Himanshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"      alt="himanshi-gupta-138b67170" height="30" width="40" /></a>
+    <a href="www.linkedin.com/in/Gupta-Himanshi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"      alt="himanshi-gupta-138b67170" height="30" width="40" /></a>
      <a href="mailto:himanshi.july@gmail.com" alt="Contact me"><img align="center"src="https://github.com/himanshi789/himanshi789/blob/main/gmail.svg" alt="Contact me!" height="40" width="40" /></a>
 <!--     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
   </p>
